@@ -1,0 +1,5 @@
+This is a bash script aiming at cooling down overheating with
+automatic STOP and CONT signals and configurable rates.
+
+See ready to use safetemp.sh script, or read the source code comments
+for more infos on how to use it.
